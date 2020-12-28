@@ -4,11 +4,10 @@ import {StyleSheet} from 'react-native';
 const estilo = StyleSheet.create({
     container: {
         backgroundColor: "black",
-        alignItems: "center"
-       
-               
+        alignItems: "center", 
+        flex: 1 ,
+        
     },
-
     texto: {
         color: "white",
         margin: 5
@@ -21,7 +20,8 @@ const estilo = StyleSheet.create({
         textAlign: "center",
         fontWeight: "bold",
         color: "white",
-        margin: 15
+        marginTop: 40
+        
     },
     contato: {
         textAlign: "center",
@@ -29,7 +29,9 @@ const estilo = StyleSheet.create({
         color: "white",
         margin: 20,
         fontSize: 25,
-        color: "red"
+        color: "red",
+        
+
     },
     maps: {
         width: 350,
