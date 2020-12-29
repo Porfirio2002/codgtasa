@@ -20,7 +20,7 @@ const estilo = StyleSheet.create({
         textAlign: "center",
         fontWeight: "bold",
         color: "white",
-        marginTop: 20
+        marginTop: 40
         
     },
     contato: {
