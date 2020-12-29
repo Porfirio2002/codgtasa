@@ -12,6 +12,11 @@ const estilo = StyleSheet.create({
         color: "white",
         margin: 5
     },
+    subtitulo:{
+        fontWeight: "bold",
+        color: "#e74c3c",
+        marginTop: 13
+    },
     videinfi: {
         color: "red",
         margin: 5

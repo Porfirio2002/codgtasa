@@ -23,6 +23,11 @@ const estilo = StyleSheet.create({
         marginTop: 20
         
     },
+    subtitulo:{
+        fontWeight: "bold",
+        color: "#e74c3c",
+        marginTop: 13
+    },
     contato: {
         textAlign: "center",
         fontWeight: "bold",
