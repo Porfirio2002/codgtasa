@@ -30,8 +30,6 @@ const estilo = StyleSheet.create({
         margin: 20,
         fontSize: 25,
         color: "red",
-        
-
     },
     maps: {
         width: 350,
@@ -53,7 +51,11 @@ const estilo = StyleSheet.create({
         height: 300,
         alignItems: "center"
     },
-    
+    namorada: {
+        width: 350,
+        height: 450,
+        alignItems: "center"
+    },
     
 })
 

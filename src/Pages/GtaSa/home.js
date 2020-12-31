@@ -8,9 +8,13 @@ const Home = () => {
         <ScrollView>
            
         <View style={estilo.container}>
+          <Image 
+            source={require('../../../assets/fotos/atv.png')}
+            style={estilo.atv}
+          />
         
       <View>
-            <Text style={estilo.titulo}>CODIGOS GTA SAN ANDREAS PS2</Text>
+            <Text style={estilo.titulo}>CÓDIGOS GTA SAN ANDREAS PS2</Text>
 
          <Text style={estilo.subtitulo}>  DINHEIRO, ARMAS, SAÚDE </Text>
          <Text style={estilo.texto}>  Armas 1: R1, R2, L1, R2, ←, ↓, →, ↑, ←, ↓, → e ↑ </Text>

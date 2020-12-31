@@ -58,6 +58,10 @@ const estilo = StyleSheet.create({
         height: 300,
         alignItems: "center"
     },
+    atv: {
+        width: 450,
+        height: 50
+    },
     
     
 })

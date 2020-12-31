@@ -8,9 +8,12 @@ const Pc = () => {
         <ScrollView>
            
         <View style={estilo.container}>
-        
+        <Image 
+            source={require('../../../assets/fotos/atv.png')}
+            style={estilo.atv}
+          />
       <View>
-        <Text style={estilo.titulo}> CODIGOS NO PC </Text>
+        <Text style={estilo.titulo}> CÓDIGOS NO PC </Text>
         <Text style={estilo.subtitulo}>  DINHEIRO, ARMAS, SAÚDE </Text>
         <Text style={estilo.texto}>  Armas 1: LXGIWYL </Text>
         <Text style={estilo.texto}>  Armas 2: PROFESSIONALSKIT </Text>
